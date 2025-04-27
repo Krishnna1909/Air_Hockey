@@ -2,7 +2,7 @@
 
 An interactive Air Hockey game built with Python and OpenCV that lets you control the paddle using real-time hand gestures. No keyboard or mouse required – just your webcam and your hand!
 
-** 🚀 Features**
+**🚀 Features**
 - **Hand Gesture Control:** Control the paddle with real-time hand tracking using centroid detection.
 - **Dynamic Gameplay:** Custom ball physics, paddle movement, and collision detection for smooth gameplay.
 - **Real-time Scoring:** Automatic score updates after every goal.
